@@ -1,0 +1,23 @@
+{
+  "short_name": "PYESwap",
+  "name": "PYE Swap",
+  "description": "Swap tokens with PYESwap",
+  "homepage_url": "https://pyeswap.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0071FF",
+  "background_color": "#FFF8FD",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "64x64"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

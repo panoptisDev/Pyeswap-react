@@ -1,0 +1,22 @@
+{
+  "name": "Pancake Unsupported List",
+  "timestamp": "2021-01-05T20:47:02.923Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": ["pancake", "unsupported"],
+  "tokens": [
+    {
+      "name": "APPLE",
+      "symbol": "Apple PYE",
+      "address": "0x52C2E52cF4E1E7A845D98Cbf5680259af8581451",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pyeswap.com/images/tokens/0x52C2E52cF4E1E7A845D98Cbf5680259af8581451.png"
+    }
+  ]
+}
